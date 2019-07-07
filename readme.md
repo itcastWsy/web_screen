@@ -543,4 +543,4 @@ main{
 
 ### 其他
 
-业内要实现响应式布局时，一般会使用 推特公式的 [bootstrap](https://www.bootcss.com) 框架，好评度很高，而且还针对ie8 做了兼容处理。
+业内要实现响应式布局时，一般会使用 推特公司的 [bootstrap](https://www.bootcss.com) 框架，好评度很高，而且还针对ie8 做了兼容处理。
